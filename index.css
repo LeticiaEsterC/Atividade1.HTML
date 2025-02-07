@@ -1,0 +1,108 @@
+body{
+  background-color: white;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+nav{
+  text-align: center;
+  padding: 10px;
+  background-color: rgb(255, 238, 113);
+  margin: -20px -20px -20px -20px;   
+}
+
+nav a{
+  text-decoration: none;
+  margin: 0 10px;
+  color: black;
+ padding: 10px 20px;
+}
+
+nav a:hover{
+  background-color: rgb(254, 228, 30);
+}
+
+header{
+  padding: -50px ;
+  height: 30%;
+  margin-top: -40px;
+}
+
+.center{
+  text-align: center;
+  margin: auto;
+}
+
+.center img{
+  width: 150px;
+}
+
+html{
+  margin: 20px 20px 20px 20px;
+}
+
+
+
+.frut img{
+  text-align: center;
+  padding: 0px ;
+  
+}
+
+#xox{
+  height: 100px;
+  width: 70%;
+  text-align: center;
+  padding-left: 250px;
+  
+}
+
+
+h2{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h3{
+  text-align: center;
+  font-size: 20px;
+}
+h1{
+  text-align: center; 
+}
+
+#tmtm{
+  text-align: center;
+  font-size: 30px;
+
+}
+
+
+
+p {
+  font-size: 19px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: justify;
+  
+}
+
+#mexirica{
+  width: 290px; 
+  height: 237px;
+  text-align: center;
+  padding-left: 780px;
+}
+
+th, td{
+  border-style: ridge;
+  border-color: rgb(255, 238, 113); 
+}  
+
+@media screen and (max-width: 768px) {
+  .conteiner{
+    display: block;
+    background: none;
+  }
+  
+}

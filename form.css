@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(255, 238, 113);;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+
+}
+
+p{
+    font-size: 19px;
+    text-align: justify;
+}
+
+form{
+    background-color: #f1f1f1;
+    padding: 50px;
+    width: 300px;
+    margin-left: 770px;
+    border-radius: 30px;
+    gap: 25px;
+    align-items: center;
+}
+
+.pre{
+    text-align: left; 
+    display: flex;
+    gap: 5px;
+    flex-direction: column;
+    margin: 20px;
+    margin-top: -10px;
+
+}
+
+input{
+    width: 120px;
+}
+
+#name{
+    width: 150px;
+}
+
+#email{
+    width: 150px;
+}
+
+button{
+    background-color: black;
+    color: white;
+    width: 90px;
+}
