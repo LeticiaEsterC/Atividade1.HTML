@@ -27,6 +27,7 @@ form{
 }
 
 .pre{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: left; 
     display: flex;
     gap: 5px;
@@ -37,6 +38,7 @@ form{
 }
 
 input{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 120px;
 }
 
